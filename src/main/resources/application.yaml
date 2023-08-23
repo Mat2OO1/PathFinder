@@ -1,0 +1,6 @@
+server:
+  port: 8762
+
+spring:
+  main:
+    web-application-type: reactive
